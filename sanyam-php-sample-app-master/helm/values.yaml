@@ -1,0 +1,2 @@
+app:
+  image: sanyam/php-app:latest
