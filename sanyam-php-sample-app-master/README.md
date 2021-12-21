@@ -11,7 +11,7 @@ Tech stack:
 - Clone the repo
 
 ```sh
-git clone https://github.com/sanyam-surana/php-app/
+git clone https://github.com/sanyam-surana/php-app/tree/main/sanyam-php-sample-app-master
 cd sanyam-php-sample-app
 ```
 
